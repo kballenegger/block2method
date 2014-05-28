@@ -5,7 +5,7 @@ require 'block2method/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'block2method'
-  spec.version       = Block2method::VERSION
+  spec.version       = Block2Method::VERSION
   spec.authors       = ['Kenneth Ballenegger']
   spec.email         = ['kenneth@ballenegger.com']
   spec.summary       = %q{Easily convert a block to an unbound method.}
