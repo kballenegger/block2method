@@ -1,4 +1,4 @@
-# Block2method
+# Block2Method
 
 Converts a block to an unbound method. This is useful for more binding a block
 to an object, so that it can be executed with a different `self`.
